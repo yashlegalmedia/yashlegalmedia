@@ -1,0 +1,6 @@
+body{margin:0;background:#08111f;color:#fff;font-family:Arial}
+header{display:flex;justify-content:space-between;padding:20px;background:#111827}
+nav a{margin:10px;color:#fff}
+.hero{padding:60px;text-align:center;background:#123a74}
+.container{display:grid;grid-template-columns:2fr 1fr;gap:20px;padding:20px}
+.card,aside{background:#1e293b;padding:15px;border-radius:10px;margin:10px 0}
